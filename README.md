@@ -1,5 +1,7 @@
 # database
 
+# Запустить перед использованием селектов:
+
 # 2 задание:
 create user filipp  with password 'Filipp';
 
@@ -31,7 +33,7 @@ create table genres(
 );
 
 
-# 3 3адание
+# 3-5 3адания
 
 create table executors(
     id serial primary key,
